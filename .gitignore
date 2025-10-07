@@ -214,5 +214,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
 # Модели YOLO и другие веса
 *.pt
+
+# records
+*.mp4
